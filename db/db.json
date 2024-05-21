@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "title": "hello world!",
+    "text": "this is the first note!",
+    "id": "81122f92-4b26-4bf7-84c8-137bfcb7907a"
+  },
+  {
+    "title": "note #2",
+    "text": "note 2",
+    "id": "a82b07e2-a2b8-49ed-bd78-972f249e1f83"
+  },
+  {
+    "title": "note 3",
+    "text": "note 3",
+    "id": "c74945b1-dd4b-4a36-93cf-13e52b4e5a42"
+  }
+]
