@@ -12,7 +12,7 @@ Note Taker is a simple application that allows users to write, save, and delete 
 - [Screenshots](#screenshots)
 - [Deployment](#deployment)
 - [License](#license)
-- [Questions](#questions)
+- [Credits](#credits)
 
 ## Installation
 
@@ -71,6 +71,8 @@ The application is deployed on Render. You can access it [here](https://note-tak
 
 This project is licensed under the MIT License.
 
-## Questions
-
-If you have any questions about the repo, open an issue or contact me directly at [your-email@example.com](mailto:your-email@example.com). You can find more of my work at [your-github-username](https://github.com/your-github-username).
+## Credits
+- Danny Kramer
+- dannylkramer@icloud.com
+- Northwestern University Coding Bootcamp
+- Module 11 Challenge
